@@ -1,1 +1,1 @@
-instructions to use my program
+Week 2
