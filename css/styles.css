@@ -1,3 +1,6 @@
-body {
-    background-color: blueviolet;
+@import 'global.css';
+@import 'main.css';
+
+body{
+    font-family: var(--fontFamily) !important;
 }
