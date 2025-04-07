@@ -41,5 +41,5 @@ blockquote cite {
 }
 
 blockquote cite::before {
-content: "\214 \2009";
+content: "\2014 \2009";
 }
